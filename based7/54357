@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<storage2>
+    <route>
+        <id>13</id>
+        <name>123</name>
+        <coordinates>
+            <x>3</x>
+            <y>312.0</y>
+        </coordinates>
+        <creationDate>2022-05-09 19:58:31</creationDate>
+        <from>
+            <x>12.0</x>
+            <y>31</y>
+            <z>0</z>
+            <name>123</name>
+        </from>
+        <to>
+            <x>12.0</x>
+            <y>312</y>
+            <z>0</z>
+            <name>3</name>
+        </to>
+        <distance>3</distance>
+    </route>
+    <collectionName>routes</collectionName>
+    <creationDate>2022-05-09T19:59:38.840+03:00</creationDate>
+</storage2>
